@@ -2,6 +2,7 @@
 
 <!-- You can replace this with a custom banner image -->
 
+
 <img src="https://www.google.com/search?q=https://placehold.co/1200x300/000000/FFFFFF%3Ftext%3DPallavi%2BTiwari" alt="Banner Image"/>
 
 <h1>Hi there, I'm Pallavi Tiwari 👋</h1>
