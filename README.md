@@ -1,82 +1,106 @@
-Pallavi Tiwari 👋
-B.Tech in Information Technology @ Dronacharya Group of Institutions
+<div align="center">
 
-A passionate Front-End Developer and tech enthusiast with a knack for creating intuitive user experiences and solving real-world problems through code.
+<!-- You can replace this with a custom banner image -->
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://www.google.com/search?q=https://placehold.co/1200x300/000000/FFFFFF%3Ftext%3DPallavi%2BTiwari" alt="Banner Image"/>
 
-🚀 Experience
-Front End Developer | ECO-G | June 2024 – July 2024
+<h1>Hi there, I'm Pallavi Tiwari 👋</h1>
 
-Developed and managed websites with comprehensive step-by-step documentation.
+<p>A passionate Front-End Developer and tech enthusiast with a knack for creating intuitive user experiences and solving real-world problems through code.</p>
 
-Collaborated with a multi-domain team, gaining exposure to Back-End technologies and AWS.
+<div>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="https://www.google.com/search?q=https://leetcode.com/your-leetcode-profile/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/leetcode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/your-github-profile" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/github-%2523121011.svg%3F%26style%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+</a>
+<a href="mailto:pallavitiwarime2003@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/gmail-%2523D14836.svg%3F%26style%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+</div>
 
-Front End Developer | Prodigy Infotech | Jan 2024 - June 2024
+</div>
 
-Contributed to a live project, showcasing strong UI/UX design skills as an Assistant Lead.
+🚀 My Experience & Projects
+<details>
+<summary><strong>Front End Developer @ ECO-G</strong> | June 2024 – July 2024</summary>
+<ul>
+<li>Developed and managed websites with comprehensive step-by-step documentation.</li>
+<li>Collaborated with a multi-domain team, gaining exposure to Back-End technologies and AWS.</li>
+</ul>
+</details>
 
-Demonstrated technical proficiency in front-end development and leadership as the Data Collector Team Lead.
+<details>
+<summary><strong>Front End Developer @ Prodigy Infotech</strong> | Jan 2024 - June 2024</summary>
+<ul>
+<li>Contributed to a live project, showcasing strong UI/UX design skills as an Assistant Lead.</li>
+<li>Demonstrated technical proficiency in front-end development and leadership as the Data Collector Team Lead.</li>
+</ul>
+</details>
 
-Open Source Contributor | Girl Script Summer of Code | Feb 2022 - Nov 2023
+<details>
+<summary><strong>Open Source Contributor @ Girl Script Summer of Code</strong> | Feb 2022 - Nov 2023</summary>
+<ul>
+<li>Actively contributed to global open-source projects.</li>
+<li>Designed and developed major features for the 'Funschooling' online store. <a href="https://funschooling.in/">Website</a></li>
+</ul>
+</details>
 
-Actively contributed to global open-source projects.
+<details>
+<summary><strong>Project: Raksha - Women Safety Analytics App</strong></summary>
+<ul>
+<li>A data-driven platform designed to enhance women’s safety through real-time monitoring, predictive analytics, and location-based insights. Features include high-risk zone identification, threat alerts, safer route recommendations, and emergency SOS functionality.</li>
+</ul>
+</details>
 
-Designed and developed major features for the 'Funschooling' online store. Website
+<details>
+<summary><strong>Project: AI-Based Food Nutrition Analyzer</strong></summary>
+<ul>
+<li>A smart nutrition analyzer using Agentic AI to autonomously process food images and text, delivering accurate nutritional insights and real-time health recommendations.</li>
+</ul>
+</details>
 
-🛠️ Projects
-Raksha - Women Safety Analytics App
+<details>
+<summary><strong>Project: Malware Detection Platform using Python</strong></summary>
+<ul>
+<li>A platform to detect malware hidden within image files and GIFs. Protects against threats where attackers embed harmful code inside common image formats.</li>
+</ul>
+</details>
 
-A data-driven platform designed to enhance women’s safety through real-time monitoring, predictive analytics, and location-based insights. Features include high-risk zone identification, threat alerts, safer route recommendations, and emergency SOS functionality.
+💻 Tech Stack
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-7F52FF%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite" alt="Kotlin" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jira-0052CC%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite" alt="Jira" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Data%2520Structures%2520%26%2520Algorithms-blue%3Fstyle%3Dfor-the-badge" alt="DSA" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Machine%2520Learning-orange%3Fstyle%3Dfor-the-badge" alt="ML" />
+</div>
 
-Malware Detection Platform using Python
+📊 GitHub Stats
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
+<br/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages" />
+<br/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-github-username%26theme%3Ddracula" alt="GitHub Streak" />
+</div>
 
-A platform to detect malware hidden within image files and GIFs. Protects against threats where attackers embed harmful code inside common image formats.
-
-AI-Based Food Nutrition Analyzer
-
-A smart nutrition analyzer using Agentic AI to autonomously process food images and text, delivering accurate nutritional insights and real-time health recommendations.
-
-CNC Machine Automation using Python and Arduino
-
-Developed a low-cost CNC machine for automated precision tasks like engraving and cutting. Implemented serial communication for real-time G-code parsing and motor control.
-
-💻 Tech Stack & Skills
-Programming Languages: Python, Java, Kotlin, PHP
-
-Web Technologies: HTML, CSS
-
-Tools & Platforms: Linux, Postman, Jira, MySQL
-
-Machine Learning/AI: Python (ML), Problem Solving, Agentic AI
-
-Core Concepts: Data Structures & Algorithms (DSA)
-
-Soft Skills: Communication, Problem Solving, Time Management, Leadership
-
-🎓 Education
+✨ Education & Achievements
 B.Tech, Information Technology | Dronacharya Group of Institutions (AKTU) | 2022-2026
 
-Class 12th | GLT Saraswati Bal Mandir, Delhi | 2022
-
-Class 10th | Green Valley Public School, Delhi | 2020
-
-✨ Achievements & Activities
 Social Media Head at Aarohan Coding Club.
 
 Hackathon Finalist at DGI.
 
 Certified in TCS iON Career Edge - Young Professional.
-
-<!-- Optional: Add GitHub stats here -->
-
-<!--
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
-</p>
--->
