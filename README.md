@@ -28,6 +28,7 @@
 🚀 My Experience & Projects
 <details>
 <summary><strong>Front End Developer @ ECO-G</strong> | June 2024 – July 2024</summary>
+<br/>
 <ul>
 <li>Developed and managed websites with comprehensive step-by-step documentation.</li>
 <li>Collaborated with a multi-domain team, gaining exposure to Back-End technologies and AWS.</li>
@@ -36,6 +37,7 @@
 
 <details>
 <summary><strong>Front End Developer @ Prodigy Infotech</strong> | Jan 2024 - June 2024</summary>
+<br/>
 <ul>
 <li>Contributed to a live project, showcasing strong UI/UX design skills as an Assistant Lead.</li>
 <li>Demonstrated technical proficiency in front-end development and leadership as the Data Collector Team Lead.</li>
@@ -44,6 +46,7 @@
 
 <details>
 <summary><strong>Open Source Contributor @ Girl Script Summer of Code</strong> | Feb 2022 - Nov 2023</summary>
+<br/>
 <ul>
 <li>Actively contributed to global open-source projects.</li>
 <li>Designed and developed major features for the 'Funschooling' online store. <a href="https://funschooling.in/">Website</a></li>
@@ -52,6 +55,8 @@
 
 <details>
 <summary><strong>Project: Raksha - Women Safety Analytics App</strong></summary>
+<br/>
+<img src="https://www.google.com/search?q=https://placehold.co/600x300/3498db/ffffff%3Ftext%3DRaksha%2BApp%2BUI" alt="Raksha App"/>
 <ul>
 <li>A data-driven platform designed to enhance women’s safety through real-time monitoring, predictive analytics, and location-based insights. Features include high-risk zone identification, threat alerts, safer route recommendations, and emergency SOS functionality.</li>
 </ul>
@@ -59,6 +64,8 @@
 
 <details>
 <summary><strong>Project: AI-Based Food Nutrition Analyzer</strong></summary>
+<br/>
+<img src="https://www.google.com/search?q=https://placehold.co/600x300/2ecc71/ffffff%3Ftext%3DAI%2BNutrition%2BAnalyzer" alt="AI Food Nutrition Analyzer"/>
 <ul>
 <li>A smart nutrition analyzer using Agentic AI to autonomously process food images and text, delivering accurate nutritional insights and real-time health recommendations.</li>
 </ul>
@@ -66,6 +73,8 @@
 
 <details>
 <summary><strong>Project: Malware Detection Platform using Python</strong></summary>
+<br/>
+<img src="https://www.google.com/search?q=https://placehold.co/600x300/e74c3c/ffffff%3Ftext%3DMalware%2BDetection%2BPlatform" alt="Malware Detection Platform"/>
 <ul>
 <li>A platform to detect malware hidden within image files and GIFs. Protects against threats where attackers embed harmful code inside common image formats.</li>
 </ul>
