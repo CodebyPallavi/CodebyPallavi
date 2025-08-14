@@ -112,4 +112,4 @@ Social Media Head at Aarohan Coding Club.
 
 Hackathon Finalist at DGI.
 
-Certified in TCS iON Career Edge - Young Professional.
+Certified in TCS iON Career Edge - Young Professional...
