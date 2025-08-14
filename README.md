@@ -80,7 +80,7 @@
 <li>A platform to detect malware hidden within image files and GIFs. Protects against threats where attackers embed harmful code inside common image formats.</li>
 </ul>
 </details>
-
+f
 💻 Tech Stack
 <div align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
