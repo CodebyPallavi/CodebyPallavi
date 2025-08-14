@@ -4,11 +4,9 @@
 
 
 <img src="https://www.google.com/search?q=https://placehold.co/1200x300/000000/FFFFFF%3Ftext%3DPallavi%2BTiwari" alt="Banner Image"/>
-S
 <h1>Hi there, I'm Pallavi Tiwari 👋</h1>
 
 <p>A passionate Front-End Developer and tech enthusiast with a knack for creating intuitive user experiences and solving real-world problems through code.</p>
-
 <div>
 <a href="[https://www.linkedin.com/in/pallavi-tiwari-414ba4252/](https://www.linkedin.com/in/pallavi-tiwari-414ba4252/)" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
