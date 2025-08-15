@@ -81,18 +81,29 @@
 f
 💻 Tech Stack
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-7F52FF%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite" alt="Kotlin" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jira-0052CC%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite" alt="Jira" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Data%2520Structures%2520%26%2520Algorithms-blue%3Fstyle%3Dfor-the-badge" alt="DSA" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Machine%2520Learning-orange%3Fstyle%3Dfor-the-badge" alt="ML" />
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
+
+<img src="https://img.icons8.com/office/16/000000/react.png" alt="react" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/>
+
+<img src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-API-vkontakte-others-inmotus-design-3.png" alt="apis" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="40" height="40"/>
+
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="redux" width="40" height="40"/>
 </div>
 
 📊 GitHub Stats
