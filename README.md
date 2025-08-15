@@ -2,7 +2,7 @@
 
 
 
-<img src="https://iili.io/FD0mrMb.th.png" alt="Banner Image"/>
+<img src="[https://iili.io/FD0mrMb.th.png](https://iili.io/FD0mrMb.png)" alt="Banner Image"/>
 
 <h1>Hi there, I'm Pallavi Tiwari 👋</h1>
 <p>A passionate Front-End Developer and tech enthusiast with a knack for creating intuitive user experiences and solving real-world problems through code.</p>
