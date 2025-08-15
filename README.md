@@ -2,23 +2,23 @@
 
 
 
-<img src="[https://iili.io/FD0mrMb.th.png](https://iili.io/FD0mrMb.png)" alt="Banner Image"/>
+<img src="https://iili.io/FD0mrMb.png" alt="Banner Image"/>
 
 <h1>Hi there, I'm Pallavi Tiwari 👋</h1>
 <p>A passionate Front-End Developer and tech enthusiast with a knack for creating intuitive user experiences and solving real-world problems through code.</p>
 
 <div>
-<a href="[https://www.linkedin.com/in/pallavi-tiwari-414ba4252/](https://www.linkedin.com/in/pallavi-tiwari-414ba4252/)" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<a href="https://www.linkedin.com/in/pallavi-tiwari-414ba4252/" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYjuy-aTcn3FK_dPYK_C6qEJ9ptqtyJ_KEVhT8giMEfNH4c_b5tKCfUe4&s" />
 </a>
-<a href="https://www.google.com/search?q=https://leetcode.com/your-leetcode-profile/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/leetcode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack" />
+<a href="https://leetcode.com/u/Pallavi_tiwari9560/" target="_blank">
+<img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8tp716mpfsfk7tjoku.png" />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/your-github-profile" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/github-%2523121011.svg%3F%26style%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+<a href="https://github.com/Pallavi2359" target="_blank">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*biIy42Cn4Bnu0IkpUW1Zew.png" />
 </a>
 <a href="mailto:pallavitiwarime2003@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/gmail-%2523D14836.svg%3F%26style%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+<img src="https://cdn.wccftech.com/wp-content/uploads/2020/09/Gmail.png" />
 </a>
 </div>
 
