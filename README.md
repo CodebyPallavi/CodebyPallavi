@@ -1,7 +1,7 @@
 <div align="center">
 
 
-
+<img src="https://iili.io/FD0mrMb.png" alt="Banner Image"/>
 
 <h1>Hi there, I'm Pallavi Tiwari 👋</h1>
 <p>A passionate Front-End Developer and tech enthusiast with a knack for creating intuitive user experiences and solving real-world problems through code.</p>
@@ -82,7 +82,6 @@
 <li>A platform to detect malware hidden within image files and GIFs. Protects against threats where attackers embed harmful code inside common image formats.</li>
 </ul>
 </details>
-f
 💻 Tech Stack
 
 
