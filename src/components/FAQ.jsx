@@ -7,18 +7,18 @@ const FAQ = () => {
   const [activeIndex, setActiveIndex] = useState(null);
 
   return (
-    <section className="py-20 bg-zinc-950">
+    <section className="py-24 bg-zinc-950">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <motion.h2
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="text-3xl md:text-5xl font-extrabold text-white mb-4"
+            className="text-4xl md:text-6xl font-heading font-bold text-white mb-4"
           >
             <span className="text-primary">FAQ</span>s
           </motion.h2>
-          <p className="text-gray-400">
+          <p className="text-gray-400 text-lg">
             Common questions about our gym and services.
           </p>
         </div>
@@ -31,14 +31,17 @@ const FAQ = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
-              className="bg-zinc-900 rounded-xl overflow-hidden"
+              className={`bg-zinc-900/50 border ${activeIndex === index ? 'border-primary/50' : 'border-white/5'} rounded-xl overflow-hidden transition-colors`}
             >
               <button
                 onClick={() => setActiveIndex(activeIndex === index ? null : index)}
                 className="w-full px-6 py-5 flex items-center justify-between text-left focus:outline-none"
+                aria-expanded={activeIndex === index}
               >
-                <span className="text-lg font-bold text-white pr-4">{item.question}</span>
-                <span className="text-primary flex-shrink-0">
+                <span className={`text-lg font-heading font-bold pr-4 ${activeIndex === index ? 'text-white' : 'text-gray-300'}`}>
+                  {item.question}
+                </span>
+                <span className={`flex-shrink-0 transition-colors ${activeIndex === index ? 'text-primary' : 'text-gray-500'}`}>
                   {activeIndex === index ? <Minus size={20} /> : <Plus size={20} />}
                 </span>
               </button>

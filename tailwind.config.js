@@ -7,13 +7,24 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#E11D48', // Rose-600, a nice bold red/pinkish gym color, or just Red-600 #DC2626
+        primary: {
+          DEFAULT: '#E11D48', // Rose-600
+          foreground: '#FFFFFF',
+          hover: '#BE123C', // Rose-700
+        },
         secondary: '#0F172A', // Slate-900
-        gymRed: '#FF0000',
-        gymBlack: '#111111',
+        dark: {
+          950: '#09090B', // Zinc-950
+          900: '#18181B', // Zinc-900
+          800: '#27272A', // Zinc-800
+        }
       },
       fontFamily: {
         sans: ['Inter', 'sans-serif'],
+        heading: ['Oswald', 'sans-serif'],
+      },
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
       },
     },
   },
